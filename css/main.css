@@ -1,0 +1,8 @@
+.brand-logo{
+	width : 200px;
+	height : 200px;
+	border: 2px solid grey;
+	background-image: url("../images/sunitha-picture.jpg");
+	background-size: cover;
+	background-position: absolute;
+}
